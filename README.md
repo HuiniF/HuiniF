@@ -1,20 +1,17 @@
 
 <p style = "margin-bottom: -17px ; font-size: 45px ; font-weight: bolder" >Olá Developers 👋👋👋</p>
 
-
-
-
 <br>
 <br>
 
 <p align="left"> 
- Me chamo <strong>Huini Forte</strong> e estou estudando <strong>Programação</strong>.<br>
+ Me chamo <strong>Huini Forte</strong> e estou estudando <strong>Programação</strong>. ✏️<br>
   </p>
 
 <p align="left">
   💻 Estou aprendendo: <strong>HTML | CSS | JavaScript | Node.js | React | React Native | MongoDB | SQL | C#.</strong>
 </p>
-<img src="./TecPerfil.png" min-width="400px" max-width="400px" width="375px" align="right" alt="imagem tecnologia">
+<img src="./DevPerfil.png" min-width="400px" max-width="400px" width="375px" align="right" alt="imagem tecnologia">
 
 
 <p align="left">
